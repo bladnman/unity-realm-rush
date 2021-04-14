@@ -41,7 +41,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8126817554636091326, guid: 614ff5d5ed1504ec3ae86a2d64ca564a, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8126817554636091326, guid: 614ff5d5ed1504ec3ae86a2d64ca564a, type: 3}
       propertyPath: m_fontColor.b
@@ -54,6 +54,22 @@ PrefabInstance:
     - target: {fileID: 8126817554636091326, guid: 614ff5d5ed1504ec3ae86a2d64ca564a, type: 3}
       propertyPath: m_fontColor.r
       value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8126817554636091326, guid: 614ff5d5ed1504ec3ae86a2d64ca564a, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4286611584
+      objectReference: {fileID: 0}
+    - target: {fileID: 8292285572132261940, guid: 614ff5d5ed1504ec3ae86a2d64ca564a, type: 3}
+      propertyPath: blockedColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8292285572132261940, guid: 614ff5d5ed1504ec3ae86a2d64ca564a, type: 3}
+      propertyPath: blockedColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8292285572132261940, guid: 614ff5d5ed1504ec3ae86a2d64ca564a, type: 3}
+      propertyPath: blockedColor.r
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 614ff5d5ed1504ec3ae86a2d64ca564a, type: 3}
